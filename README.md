@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jéssica Ladislau</h1>
-<h3 align="center">A passionate about technology and data visualization from Brazil</h3>
+<h3 align="center">A passionate about technology and Data Visualization from Brazil</h3>
 
 - 🌱 I’m currently learning **SQL(advanced) and Python**
 
